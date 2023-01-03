@@ -1,4 +1,52 @@
 .home_pic {
-    height: auto;
-    width: 150px;
+  height: auto;
+  width: 400px;
+  border-radius: 30px;
+  color: aliceblue;
+  border-width: 50px;
+}
+.myself {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.homedetails {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 100px;
+  border-bottom: 5px;
+  border-bottom-style: solid;
+  border-color: white;
+}
+.home_container {
+  margin-top: 150px;
+  margin-left: 150px;
+  margin-right: 150px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-size: 25px;
+}
+.home_button {
+  justify-content: center;
+  height: 80px;
+  width: 300px;
+  margin-top: 80px;
+  align-items: center;
+  background-image: linear-gradient(144deg, #af40ff, #5b42f3 50%, #00ddeb);
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  transform: scale(1.0);
+  
+}
+.home_button:hover {
+  outline: 0;
+  background-image: linear-gradient(144deg, rgba(46,255,38,1) 0%, rgba(58,228,14,0.9864320728291317) 43%, rgba(0,255,25,1) 100%);
+  color: rgb(24,24,40);
+  box-shadow: #00ddeb;
+  transform: scale(1.2);
+  transition: 500ms;
 }

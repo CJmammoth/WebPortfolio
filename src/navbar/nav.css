@@ -19,7 +19,7 @@ ul li a {
     color: whitesmoke;
     }
 
-ul li a:hover, ul li a.active  {
+ul li a:hover  {
     color: rgb(24,24,40);
     transition: 300ms ease-in-out;
 }

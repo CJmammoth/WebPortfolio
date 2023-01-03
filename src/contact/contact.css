@@ -1,0 +1,50 @@
+.mypic {
+    height: auto;
+    width: 300px;
+}
+
+.mydetails {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 100px;
+
+}
+.reachme {
+height: 200px;
+width: 600px;
+margin: 70px 0px 0px 0px;
+font-size: 20px;
+background-image: linear-gradient(144deg, #af40ff, #5b42f3 50%, #00ddeb);
+padding-top: 60px;
+border: 5px;
+border-radius: 20px;
+}
+.socials {
+margin-top: 100px;
+display: flex;
+justify-content: center;
+}
+.linkedin {
+    height: auto;
+    width: 100px;
+}
+.facebook {
+    height: auto;
+    width: 100px;
+    margin: 0px 100px 0px 100px;
+}
+.instagram {
+    height: auto;
+    width: 100px;
+}
+.contact_container {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+.header_projects {
+    margin: 30px 50px 10px 50px;
+    height: 50px;
+    padding-top: 30px;
+    font-size: 50px;
+}

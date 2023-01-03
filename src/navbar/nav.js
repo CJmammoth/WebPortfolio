@@ -1,23 +1,23 @@
 import React from "react";
 import "./nav.css";
-import { Link, Route, Routes } from "react-router-dom";
+import { NavLink, Route, Routes } from "react-router-dom";
 
 export default function Nav() {
   return (
     <div>
       <nav className="navbar">
         <ul>
-          <li className="active">
-            <Link to="/">Home</Link>
+          <li>
+            <NavLink to="/">Home</NavLink>
           </li>
-          <li className="active">
-            <Link to="/about">About</Link>
+          <li>
+            <NavLink to="/about">About</NavLink>
           </li>
-          <li className="active">
-            <Link to="/portfolio">Portfoio</Link>
+          <li>
+            <NavLink to="/portfolio">Portfoio</NavLink>
           </li>
-          <li className="active">
-            <Link to="/contact">Contact</Link>
+          <li>
+            <NavLink to="/contact">Contact</NavLink>
           </li>
         </ul>
       </nav>
