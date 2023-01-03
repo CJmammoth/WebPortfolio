@@ -25,19 +25,12 @@ margin-top: 100px;
 display: flex;
 justify-content: center;
 }
-.linkedin {
-    height: auto;
-    width: 100px;
-}
 .facebook {
     height: auto;
     width: 100px;
     margin: 0px 100px 0px 100px;
 }
-.instagram {
-    height: auto;
-    width: 100px;
-}
+
 .contact_container {
   font-family: "Montserrat", sans-serif;
   color: white;

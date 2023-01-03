@@ -1,8 +1,11 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./portfolio.css";
 import { Link, Route, Routes } from "react-router-dom";
 
 export default function Porfolio() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div className="portfolio_container">
       <h1 className="header_projects">Mentors</h1>
@@ -60,16 +63,28 @@ export default function Porfolio() {
         </a>
       </div>
       <h1 className="header_projects">Certificates</h1>
-      <a href="https://app.dataquest.io/view_cert/P0F4DD2SKD39F1P2MFK6">
+      <a
+        href="https://app.dataquest.io/view_cert/P0F4DD2SKD39F1P2MFK6"
+        target="_blank"
+      >
         <img src="https://i.imgur.com/rDa89xa.png" className="pics"></img>
       </a>
-      <a href="https://courses.buri.io/view/user/certificate/7c6ffc0a-1d05-4300-97b2-fbafc3daf248/pdf">
+      <a
+        href="https://courses.buri.io/view/user/certificate/7c6ffc0a-1d05-4300-97b2-fbafc3daf248/pdf"
+        target="_blank"
+      >
         <img src="https://i.imgur.com/oMMPrUx.png" className="pics"></img>
       </a>
-      <a href="https://courses.buri.io/view/user/certificate/11669638-e922-4a52-8fe1-3902b6384b71/pdf">
+      <a
+        href="https://courses.buri.io/view/user/certificate/11669638-e922-4a52-8fe1-3902b6384b71/pdf"
+        target="_blank"
+      >
         <img src="https://i.imgur.com/KpZKzRO.png" className="pics"></img>
       </a>
-      <a href="https://www.freecodecamp.org/certification/cjmammoth/responsive-web-design">
+      <a
+        href="https://www.freecodecamp.org/certification/cjmammoth/responsive-web-design"
+        target="_blank"
+      >
         <img src="https://i.imgur.com/XePh8BY.png" className="pics"></img>
       </a>
       <div>
