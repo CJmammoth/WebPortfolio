@@ -13,7 +13,7 @@ export default function Porfolio() {
         <div className="mentor_1">
           <img
             className="vic_pic"
-            src="https://media-exp1.licdn.com/dms/image/C5603AQGmjxv2HaiNLQ/profile-displayphoto-shrink_800_800/0/1599486473211?e=1674691200&v=beta&t=r29d6fCNmlsj8_hcsY24A9AVAt7Z6cu2f-tdaUuC0PY"
+            src="https://media.licdn.com/dms/image/C5603AQGmjxv2HaiNLQ/profile-displayphoto-shrink_200_200/0/1599486473211?e=1680739200&v=beta&t=3EfBYecpsq-2MMLAnDC47CFbmpM0Ib-FPfDWRzyg9gU"
           ></img>
           <h2 className="mentorname">Victor Inocentes</h2>
           <h2 className="mentortitle1">
@@ -27,7 +27,7 @@ export default function Porfolio() {
         <div className="mentor_2">
           <img
             className="mark_pic"
-            src="https://scontent.fmnl25-1.fna.fbcdn.net/v/t1.6435-9/46516243_304584480390987_8034802690238185472_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEOHM23pUU2xJyjHg-ykPw-vcdcBReYGQ29x1wFF5gZDZ1B08t1LP5oV0_4YjZSuiyZqUjLdJaLG3DlpA1Qn3S_&_nc_ohc=XmRKFXoso0wAX_l84dK&_nc_ht=scontent.fmnl25-1.fna&oh=00_AfAi76KHPJnMOFxVg7bvVU3nHf6zqG_dsM1Y3J3PMLVwqQ&oe=63CC09E3"
+            src="https://scontent.fmnl8-1.fna.fbcdn.net/v/t1.6435-9/46516243_304584480390987_8034802690238185472_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEOHM23pUU2xJyjHg-ykPw-vcdcBReYGQ29x1wFF5gZDZ1B08t1LP5oV0_4YjZSuiyZqUjLdJaLG3DlpA1Qn3S_&_nc_ohc=LdvG0ixX4TwAX9LbWOk&_nc_ht=scontent.fmnl8-1.fna&oh=00_AfBdPxOWdeVosWdFX78XUOP9IwzyhoIhTPXY6wh59ovZdw&oe=63FDEAA3"
           ></img>
           <h2 className="mentorname">Mark David Liberato</h2>
           <h2 className="mentortitle1">
