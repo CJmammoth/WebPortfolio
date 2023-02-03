@@ -10,32 +10,32 @@ export default function Contact() {
           <h2>Mobile Number: +639663312920</h2>
           <h2>Email: carlosjamito@gmail.com</h2>
         </div>
-        <img className="mypic" src="https://i.imgur.com/fwWai7s.jpg"></img>
+        <img className="mypic" src="https://i.imgur.com/fwWai7s.jpg" />
       </div>
       <div className="socials">
         <a href="https://www.linkedin.com/in/carlosjamito" target="_blank">
           <img
             className="facebook"
             src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-          ></img>
+          />
         </a>
         <a href="https://www.facebook.com/carlos.jamito/" target="_blank">
           <img
             className="facebook"
             src="https://cdn-icons-png.flaticon.com/512/124/124010.png"
-          ></img>
+          />
         </a>
         <a href="https://www.instagram.com/cjmammoth/" target="_blank">
           <img
             className="facebook"
             src="https://cdn-icons-png.flaticon.com/512/174/174855.png"
-          ></img>
+          />
         </a>
         <a href="https://github.com/CJmammoth" target="_blank">
           <img
             className="facebook"
             src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
-          ></img>{" "}
+          />
         </a>
       </div>
     </div>
