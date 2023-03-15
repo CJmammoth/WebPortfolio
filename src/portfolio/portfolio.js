@@ -25,10 +25,7 @@ export default function Porfolio() {
           </p>
         </div>
         <div className="mentor_2">
-          <img
-            className="mark_pic"
-            src="https://scontent.fmnl8-1.fna.fbcdn.net/v/t1.6435-9/46516243_304584480390987_8034802690238185472_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEOHM23pUU2xJyjHg-ykPw-vcdcBReYGQ29x1wFF5gZDZ1B08t1LP5oV0_4YjZSuiyZqUjLdJaLG3DlpA1Qn3S_&_nc_ohc=LdvG0ixX4TwAX9LbWOk&_nc_ht=scontent.fmnl8-1.fna&oh=00_AfBdPxOWdeVosWdFX78XUOP9IwzyhoIhTPXY6wh59ovZdw&oe=63FDEAA3"
-          ></img>
+          <img className="mark_pic" src="https://i.imgur.com/5Ol05gR.png"></img>
           <h2 className="mentorname">Mark David Liberato</h2>
           <h2 className="mentortitle1">
             ReactJS Developer at Collabera Philippines
